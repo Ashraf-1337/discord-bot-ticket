@@ -1,0 +1,23 @@
+{
+  "token": "YourBotTokenHere",
+  "clientId": "YourClientIdHere",
+  "guildId": "YourGuildIdHere",
+
+  "RoleId_1": "",
+  "RoleId_2": "",
+  "RoleId_3": "",
+  "RoleId_4": "",
+  "RoleId_5": "",
+  "RoleId_6": "",
+  "RoleId_7": "",
+  "RoleId_8": "",
+
+  "CategoryId_1": "",
+  "CategoryId_2": "",
+  "CategoryId_3": "",
+  "CategoryId_4": "",
+  "CategoryId_5": "",
+  "CategoryId_6": "",
+  "CategoryId_7": "",
+  "CategoryId_8": ""
+}
